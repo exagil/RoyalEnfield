@@ -1,0 +1,23 @@
+body {
+	background: url("images/rough_white.jpg");
+	text-align: center;
+}
+
+.header {
+	color: #291400;
+}
+
+.content img{
+	height: 300px;
+}
+
+.text {
+	text-align: left;
+	width: 200px;
+	margin: 30px;
+	display: inline-block;
+}
+
+#centered-text p{
+	text-align: center;
+}
